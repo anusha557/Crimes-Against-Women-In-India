@@ -5,10 +5,10 @@ We all might be thinking last year everybody were at home, then why didn’t the
 The Main Aim of this project is to show how crimes against women were increasing from 2001 to 2014.
 This data was collected from Kaggle. It has state-wise and district level data on the various crimes committed against women between 2001 to 2014. The crimes included are:
 
-<li>1.Rape
-<li>2.Kidnapping and Abduction
-<li>3.Dowry Deaths
-<li>4.Assault on women with intent to outrage her modesty
-<li>5.Insult to modesty of Women
-<li>6.Cruelty by Husband or his Relatives
-<li>7.Importation of Girls
+<li>Rape
+<li>Kidnapping and Abduction
+<li>Dowry Deaths
+<li>Assault on women with intent to outrage her modesty
+<li>Insult to modesty of Women
+<li>Cruelty by Husband or his Relatives
+<li>Importation of Girls
